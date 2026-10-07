@@ -24,6 +24,8 @@ Healthcare organizations need to understand disease burden, healthcare utilizati
 <img width="1181" height="659" alt="Screenshot 2026-10-07 at 11 39 21" src="https://github.com/user-attachments/assets/60a41067-7f07-46d9-beb9-7a81d8c6ec59" />
 
 ## Tableau Dashboard
+<img width="1009" height="804" alt="Screenshot 2026-10-07 at 22 33 48" src="https://github.com/user-attachments/assets/8a17b37b-db6f-4dc9-8750-12966cc80c21" />
+
 
 ## Key Insights
 NRW has the highest patient population.
