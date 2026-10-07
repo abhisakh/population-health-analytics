@@ -26,3 +26,8 @@ Population-Health-Analytics/
 └── documentation/
 └── Project_Report.pdf
 ```
+
+## Power BI Dashboard
+<img width="1181" height="659" alt="Screenshot 2026-10-07 at 11 39 21" src="https://github.com/user-attachments/assets/60a41067-7f07-46d9-beb9-7a81d8c6ec59" />
+
+
