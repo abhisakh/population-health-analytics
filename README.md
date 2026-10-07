@@ -13,7 +13,7 @@ The project combines Power BI and Tableau to deliver both executive-level report
  
 View the interactive Tableau dashboard:
  
-[Population Health Analytics Dashboard](https://public.tableau.com/views/population-health-analytics/Dashboard1?:language=en-viz_share_link
+[Population Health Analytics Dashboard](https://public.tableau.com/views/population-health-analytics/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
  
