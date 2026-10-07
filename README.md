@@ -5,13 +5,16 @@
 Population Health Analytics is an end-to-end healthcare analytics project that explores patient demographics, disease burden, healthcare utilization, and regional cost patterns across Germany.
  
 The project combines Power BI and Tableau to deliver both executive-level reporting and exploratory analytics, helping stakeholders identify key trends in healthcare service usage and treatment outcomes.
- 
+
+ 
 ---
+
 ## Live Dashboard
  
 View the interactive Tableau dashboard:
  
 [Population Health Analytics Dashboard](https://public.tableau.com/views/population-health-analytics/Dashboard1?:language=en-viz_share_link
+
 ---
  
 ## Business Problem
