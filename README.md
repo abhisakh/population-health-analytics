@@ -102,14 +102,13 @@ Interactive analytics dashboard focused on:
 ## Repository Structure
  
 ```text
-Population-Health-Analytics/
+population-health-analytics/
 │
-├── README.md
 ├── data/
-│ └── sample_dataset.csv
+│ └── NODE_A_unified.csv
 │
-├── sql/
-│ └── data_cleaning.sql
+├── excel/
+│ └── Population_Health_Dashboard.xlsx
 │
 ├── powerbi/
 │ └── Population_Health.pbix
@@ -117,13 +116,16 @@ Population-Health-Analytics/
 ├── tableau/
 │ └── Population_Health.twbx
 │
+├── python/
+│ └── analysis.ipynb
+│
 ├── screenshots/
+│ ├── excel_dashboard.png
 │ ├── powerbi_dashboard.png
 │ ├── tableau_dashboard.png
-│ └── data_model.png
+│ └── pandas_analysis.png
 │
-└── documentation/
-└── Project_Report.pdf
+└── README.md
 ```
  
 ---
